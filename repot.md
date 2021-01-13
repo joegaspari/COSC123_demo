@@ -5,6 +5,9 @@ This is just random text in the body
 
 If you want to bold you surround by double stars **hi**
 
+
+If you want to italicize text you just have to add a single star *hi its joe*
+
 If you want a numbered list
 
 1. item
